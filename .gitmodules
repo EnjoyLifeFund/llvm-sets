@@ -19,9 +19,6 @@ url = https://github.com/llvm-mirror/libunwind
 [submodule "libzmq"]
 path=libzmq
 url = https://github.com/zeromq/libzmq.git
-[submodule "lld"]
-path=lld
-url = https://git.llvm.org/git/lld.git
 [submodule "lldb"]
 path=lldb
 url = https://git.llvm.org/git/lldb.git/
