@@ -24,7 +24,7 @@ path=lld
 url = https://git.llvm.org/git/lld.git
 [submodule "lldb"]
 path=lldb
-url = http://llvm.org/git/lldb.git
+url = https://git.llvm.org/git/lldb.git/
 [submodule "llvm"]
 path=llvm
 url = https://github.com/ralic/llvm
@@ -33,7 +33,7 @@ path=llvm/tools/lldb
 url = http://llvm.org/git/lldb
 [submodule "openmp"]
 path=openmp
-url = http://llvm.org/git/openmp.git
+url = https://git.llvm.org/git/openmp.git/
 [submodule "polly"]
 path=polly
-url = http://llvm.org/git/polly.git
+url = https://git.llvm.org/git/polly.git/
