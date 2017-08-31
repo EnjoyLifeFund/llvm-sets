@@ -21,7 +21,7 @@ path=libzmq
 url = https://github.com/zeromq/libzmq.git
 [submodule "lld"]
 path=lld
-url = http://llvm.org/git/lld.git
+url = https://git.llvm.org/git/lld.git
 [submodule "lldb"]
 path=lldb
 url = http://llvm.org/git/lldb.git
