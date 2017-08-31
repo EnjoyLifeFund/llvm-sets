@@ -1,0 +1,39 @@
+[submodule "clang"]
+path=clang
+url = https://github.com/llvm-mirror/clang
+[submodule "clang/tools/clang-tools-extra"]
+path=clang/tools/clang-tools-extra
+url = http://llvm.org/git/clang-tools-extra.git
+[submodule "compiler-rt"]
+path=compiler-rt
+url = https://github.com/llvm-mirror/compiler-rt
+[submodule "libcxx"]
+path=libcxx
+url = https://github.com/llvm-mirror/libcxx
+[submodule "libcxxabi"]
+path=libcxxabi
+url = https://github.com/llvm-mirror/libcxxabi
+[submodule "libunwind"]
+path=libunwind
+url = https://github.com/llvm-mirror/libunwind
+[submodule "libzmq"]
+path=libzmq
+url = https://github.com/zeromq/libzmq.git
+[submodule "lld"]
+path=lld
+url = http://llvm.org/git/lld.git
+[submodule "lldb"]
+path=lldb
+url = http://llvm.org/git/lldb.git
+[submodule "llvm"]
+path=llvm
+url = https://github.com/ralic/llvm
+[submodule "llvm/tools/lldb"]
+path=llvm/tools/lldb
+url = http://llvm.org/git/lldb
+[submodule "openmp"]
+path=openmp
+url = http://llvm.org/git/openmp.git
+[submodule "polly"]
+path=polly
+url = http://llvm.org/git/polly.git
